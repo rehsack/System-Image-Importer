@@ -1,0 +1,5 @@
+#!perl
+
+use System::Image::Importer;
+
+System::Image::Importer->new_with_options->run;
